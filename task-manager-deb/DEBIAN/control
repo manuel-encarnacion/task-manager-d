@@ -1,0 +1,9 @@
+Package: task-manager
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: default-jre
+Maintainer: Manuel <just-a-test-project-so-no-email-at-all@not.com>
+Description: Task Manager
+  Project to learn how to work with files, cli and installations in linux.
